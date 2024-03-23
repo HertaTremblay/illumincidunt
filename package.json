@@ -1,0 +1,29 @@
+{
+  "name": "illumincidunt",
+  "description": "This plugin will inject css into bundled js file using `import` statement.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "TheoGlover",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HertaTremblay/illumincidunt.git"
+  },
+  "homepage": "https://github.com/HertaTremblay/illumincidunt.git",
+  "keywords": [
+    "vite",
+    "plugin",
+    "aut",
+    "css"
+  ],
+  "devDependencies": {
+    "vite": "2.7.5"
+  },
+  "peerDependencies": {
+    "vite": "*"
+  },
+  "dependencies": {
+    "minimatch": "^9.0.1"
+  }
+}
